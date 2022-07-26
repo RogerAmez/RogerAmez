@@ -1,0 +1,6 @@
+from datetime import *
+
+strfecha="2/06/2022"
+
+conversion = date.time.strptime(strfecha, "
+
